@@ -1,8 +1,9 @@
 /*Header part designing here*/
-header {
+header{
     width: 1320px;
     height: 600px;
-    margin: 0 auto;
+    margin: 0 auto; 
+    
 }
 
 .image {
@@ -11,12 +12,14 @@ header {
     background-size: cover;
     padding: 170px 0;
     border-radius: 16px;
+    filter:brightness(70%);
+    
 }
 
 .section-heading {
     margin: 0px auto;
     max-width: 600px;
-
+    
 }
 
 .happy-new-year {
@@ -24,12 +27,14 @@ header {
     text-align: center;
     font-size: 32px;
     margin-bottom: 16px;
+   
 }
 
 .celebration {
     color: #FFF;
     text-align: center;
     font-size: 72px;
+  
 }
 
 main {
