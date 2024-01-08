@@ -295,10 +295,51 @@ h3 {
     width: 600px;
 }
 
-.main-div-of-ornaments {
+.main-div-of-ornaments{
     display: flex;
-    gap: 24px;
+    gap: 24px;   
+}
 
+.yellow-bag:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+.balck-bag:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+.red-shoe:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+.white-shoes:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+.glass:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+.churi:hover{
+    background-color:black;
+    border-radius: 10px;
+    padding: 2px;
+    transition: 0.5s;
 }
 
 .second-div-of-ornaments {
