@@ -1,0 +1,111 @@
+
+
+header {
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.image {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 170px 0;
+    border-radius: 16px;
+}
+
+.section-heading {
+    margin: 0px auto;
+    max-width: 600px;
+
+}
+
+.happy-new-year {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+
+.celebration {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+}
+
+main {
+    max-width: 1320px;
+    margin:120px auto;
+}
+
+/*Section 1 starts here*/
+
+.categories {
+    padding: 120px 390px;
+    margin: 120px 0px;
+    background-color: #FFF8F3;
+
+}
+
+.section-title {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    margin-bottom: 48px;
+}
+
+.holiday {
+
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.all-categories {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+}
+
+.section-image img {
+    align-items: center;
+    width: 545px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.banner-image{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.section-heading{
+    padding: 120px 500px 120px 130px;
+}
+
+.title-text{
+color: #FFF;
+font-size: 74px;
+max-width: 600px;
+margin-bottom: 24px;
+}
+.section-description{
+color: rgba(255, 255, 255, 0.80);
+font-size: 18px;
+width: 600px;
+margin-bottom: 48px;
+}
+
+.btn{
+ color: #FFF;   
+font-size: 20px;
+font-weight: 700;
+background-color: transparent;
+text-transform: uppercase;
+border: 0;
+}
+
