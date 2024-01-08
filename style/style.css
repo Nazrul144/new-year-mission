@@ -159,3 +159,103 @@ h3 {
     border: 0;
     margin-top: 48px;
 }
+
+/*Section five starts here*/
+.main-div {
+    display: flex;
+    gap: 70px;
+    margin-top: 120px;
+    background-color: #FFF8F3;
+    border-radius: 16px;
+
+}
+
+.all-title {
+    max-width: 440px;
+    margin-top: 100px;
+
+}
+
+.new-best-offer {
+    color: #F00;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.comming-soon {
+    color: #070211;
+    font-size: 48px;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+
+.new-year-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+
+.image-div {
+    max-width: 440px;
+}
+
+.year {
+    max-width: 440px;
+    margin-top: 50px;
+    color: #F00;
+    font-size: 48px;
+}
+
+.year-2024 {
+    margin-bottom: 16px;
+}
+
+
+
+
+
+
+
+.top-div {
+    background-color: #FFF8F3;
+    border-radius: 16px;
+    margin-top: 0;
+    position: relative;
+}
+
+.what-is-functional {
+    text-align: center;
+    color: #070211;
+    font-size: 24px;
+    margin-top: 120px;
+    padding-top: 50px;
+}
+
+.holidays-sale {
+    text-align: center;
+    color: #F00;
+    font-size: 72px;
+    margin-top: 16px;
+}
+
+.sale-description {
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.girl-image{
+    margin-left: 890px;
+    padding-top: 100px;
+}
+
+.gift-image{
+    position: absolute;
+    margin-bottom: 100px;
+}
+
+/*Ornament Section Starts here*/
+
+
+
+
