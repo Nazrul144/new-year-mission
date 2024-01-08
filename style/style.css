@@ -1,3 +1,4 @@
+/*Header part designing here*/
 header {
     width: 1320px;
     height: 600px;
@@ -43,6 +44,7 @@ main {
     margin: 120px 0px;
     background-color: #FFF8F3;
     border-radius: 16px;
+   
 
 }
 
@@ -167,6 +169,7 @@ h3 {
     margin-top: 120px;
     background-color: #FFF8F3;
     border-radius: 16px;
+    
 
 }
 
@@ -196,6 +199,7 @@ h3 {
 
 .image-div {
     max-width: 440px;
+    margin-top: 40px;
 }
 
 .year {
@@ -248,6 +252,11 @@ h3 {
 .girl-image {
     margin-left: 890px;
     padding-top: 100px;
+    position: relative;
+}
+.group-44{
+    position: absolute;
+    width: 200px;
 }
 
 .gift-image {
@@ -256,10 +265,11 @@ h3 {
 }
 
 /*Ornament Section Starts here*/
-.title-div{
+.title-div {
     background-color: #FFF8F3;
     border-radius: 16px;
 }
+
 .the-best-gift {
     color: #F00;
     font-size: 24px;
@@ -279,12 +289,116 @@ h3 {
     font-size: 20px;
     width: 600px;
 }
-.main-div-of-ornaments{
+
+.main-div-of-ornaments {
     display: flex;
-    gap:10px;
-    
+    gap: 10px;
+
 }
-.second-div-of-ornaments{
+
+.second-div-of-ornaments {
     display: flex;
     gap: 10px;
 }
+
+/*Subscribe box designing starts here*/
+.container-subscribe-box {
+    background-color: #FFF8F3;
+    border-radius: 16px;
+    padding: 80px 210px;
+    margin-top: 120px;
+}
+
+.message-box {
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.Subscribe-Newsletter {
+    color: #070211;
+    text-align: center;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.subscribe-pera {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+}
+
+.form-box input[type="text"] {
+    width: 480px;
+    height: 72px;
+    border-radius: 50px 0 0 50px;
+    background: #FFF;
+    padding-left: 30px;
+    color: rgba(7, 2, 17, 0.30);
+    font-size: 22px;
+    margin-left: 125px;
+    border: 0;
+    position: relative;
+    margin-top: 50px;
+}
+
+.form-box input[type="submit"] {
+    width: 160px;
+    height: 72px;
+    border-radius: 0 50px 50px 0;
+    color: rgba(7, 2, 17, 0.30);
+    font-size: 22px;
+    margin-left: 150px;
+    border: 0;
+    position: absolute;
+    margin-left: -5px;
+    color: #FFF;
+    background: #F00;
+    margin-top: 50px;
+    padding: 15px 40px;
+}
+
+/*Subscribe box designing ends here*/
+
+
+
+
+/*Footer Design Starts here*/
+.footer-part{
+    background-color: #070211;
+    width: 1320px;
+    margin: 0 auto;
+    border-radius: 16px;
+}
+.footer-main-div {
+    display: flex;
+    
+}
+
+.address{
+    color: #FFF;
+    font-size: 24px;
+    margin-left: 20px;
+    padding-top: 80px;
+  
+}
+.number{
+    margin-left: 650px;
+}
+
+.logo{
+    margin-left: 550px;
+}
+
+.final{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    margin-right: 160px;
+}
+
+
+/*Footer Design Ends here*/
