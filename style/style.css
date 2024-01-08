@@ -244,18 +244,47 @@ h3 {
     max-width: 800px;
     margin: 0 auto;
 }
-.girl-image{
+
+.girl-image {
     margin-left: 890px;
     padding-top: 100px;
 }
 
-.gift-image{
+.gift-image {
     position: absolute;
     margin-bottom: 100px;
 }
 
 /*Ornament Section Starts here*/
+.title-div{
+    background-color: #FFF8F3;
+    border-radius: 16px;
+}
+.the-best-gift {
+    color: #F00;
+    font-size: 24px;
+    padding-top: 20px;
+    margin-bottom: 16px;
+}
 
+.portfolio {
+    color: #070211;
+    font-size: 48px;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
 
-
-
+.portfolio-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    width: 600px;
+}
+.main-div-of-ornaments{
+    display: flex;
+    gap:10px;
+    
+}
+.second-div-of-ornaments{
+    display: flex;
+    gap: 10px;
+}
